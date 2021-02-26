@@ -27,8 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Ovua Harcourt</strong> who lives and works in San
-          Jose building useful things.{' '}
+          Written by <strong>Ovua Harcourt</strong> who is pasionate about building the web.{' '}
           <a href="https://twitter.com/ovua_">
             Follow on Twitter
           </a>
