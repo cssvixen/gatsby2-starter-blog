@@ -18,7 +18,7 @@ Below you would find a basic HTML form for a “mommy magazine” subscription w
 Now lets look at how i achieved this;
 
 Important links used for this project;
-In every project you always have to add your link to your css folder to the <head></head> tag of your html file. This links all styling done on your css file to your html file. NB This is for those who use external styling alone. 
+In every project you always have to add your link to your css folder to the `<head></head>` tag of your html file. This links all styling done on your css file to your html file. NB This is for those who use external styling alone. 
 I also used an external emoji style sheet where i imported the baby emoji for the header of my project. Anything external must be linked in your html header of your project.
 
 >image here
@@ -26,13 +26,13 @@ I also used an external emoji style sheet where i imported the baby emoji for th
 
 <b>Styling the Form div</b>
 
-In this project i created a div where the form lies in. the background-color property used is to give the form a background color. It could also be an image or pattern  if you choose to bt for this project i chose to use a soiid color. The border-radius property curves the edsges of the form and it can be set to any radius depending on how curved you want it to be.The padding property used centers the form in the middle of the div so it looks well put together and it doesnt spill out. lastly, the width property is used to set the width of the div.
+In this project i created a div where the form lies in. the background-color property used is to give the form a background color. It could also be an image or pattern  if you choose to bt for this project i chose to use a soiid color. The border-radius property curves the edsges of the form and it can be set to any radius depending on how curved you want it to be. The padding property used centers the form in the middle of the div so it looks well put together and it doesnt spill out. lastly, the width property is used to set the width of the div.
 
 
 >image here
 
 
-The border-radius property curves the edsges of the form and it can be set to any radius depending on how curved you want it to be..The padding property used centers the form in the middle of the div so it looks well put together and it doesnt spill out. lastly, the width property is used to set the width of the div.
+The border-radius property curves the edsges of the form and it can be set to any radius depending on how curved you want it to be. The padding property used centers the form in the middle of the div so it looks well put together and it doesnt spill out. Lastly, the width property is used to set the width of the div.
 
 
 <b>Styling the h2 Element</b>
@@ -47,7 +47,7 @@ Here we only used the font-family to change the font of the heading and the marg
 
 <b>Styling the form Label </b>
 
-Labels are like mini tittles that can be giving to a <button>, <input>, <meter>, <output>, <progress>, <select>, or <textarea> element.
+Labels are like mini tittles that can be giving to a `<button>`, `<input>`, `<meter>`, `<output>`, `<progress>`, `<select>`, or `<textarea>` element.
 
 >image here
 
