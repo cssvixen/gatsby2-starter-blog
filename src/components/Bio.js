@@ -4,7 +4,7 @@ import React from 'react'
 import 'typeface-montserrat'
 import 'typeface-merriweather'
 
-import profilePic from './Biopic.jpg'
+import profilePic from 'https://github.com/cssvixen/gatsby2-starter-blog/blob/master/src/components/Biopic/Biopic.jpg?raw=true'
 import { rhythm } from '../utils/typography'
 
 class Bio extends React.Component {
