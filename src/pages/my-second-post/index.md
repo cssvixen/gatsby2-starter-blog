@@ -4,8 +4,6 @@ date: "2021-02-26T23:46:37.121Z"
 ---
 
 
-<b>Introduction</b>
-
 CSS animation is a vast topic once you get in. It allows you to animate HTML elements without javascript and flash. CSS continues to evolve as a language thereby giving us a more exceptional ability to create with code.
 
 An animation executes as soon as the animation property is applied, with CSS animations, there is a bit more control. They allow for the creation of multiple keyframes over which animation occurs.
