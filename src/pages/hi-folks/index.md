@@ -4,8 +4,6 @@ date: "2021-02-26T22:40:32.169Z"
 ---
 
 
-<b> Introduction </b>
-
 Have you ever styled an element with multiple css selectors and only one rule is applied? well this is because of specificity.
 
 Specificity may seem a bit complex for beginners, but understanding this would give you a much clearer concept of how styling works in css and also reduce bug hunting time especially for front-end developers.
