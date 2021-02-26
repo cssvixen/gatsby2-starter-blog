@@ -4,8 +4,6 @@ date: "2021-02-26T22:12:03.284Z"
 ---
 
 
-<b>Introduction</b>
-
 Have you ever visited a web page and it takes forever to load up or visited a web page that sometimes keeps loading but never comes up? This is because websites are built using a lot of files like css, html, and js script and they contain numerous codes that is either automatically generated or written by a developer which makes them heavy in size.
 
 Google takes ranking very seriously. It ranks websites according to how fast they load up and as a developer, your website should be SEO optimised which means it should be able to appear frequently on search results. This is measured by how fast your website is able to load up.
